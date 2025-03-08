@@ -25,7 +25,7 @@ author:
   avatar           : "profile.jpg"
   name             : "Peiji Yang（杨培基）"
   pronouns         : # example: "she/her"  
-  bio              : "Tencent. \nWorking on: Speech LLM"
+  bio              : "Tencent. <br>Working on: Speech LLM"
   location         : "China"
   employer         : "Tencent"
   uri              : # URL
